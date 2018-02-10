@@ -1,0 +1,2722 @@
+{
+  "politicians" : [
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 1,
+      "name" : "Абдуллін Олександр Рафкатович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but17.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 2,
+      "name" : "Агафонова Наталія Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp44.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 3,
+      "name" : "Алексєєв Ігор Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf64.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 4,
+      "name" : "Алєксєєв Сергій Олегович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp55.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 5,
+      "name" : "Амельченко Василь Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp21.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 6,
+      "name" : "Андрієвський Дмитро Йосипович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d222_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 7,
+      "name" : "Антонищак Андрій Федорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp39.jpg"
+    },
+    {
+      "group" : "Житомирська область",
+      "id" : 8,
+      "name" : "Арешонков Володимир Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d64_1.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 9,
+      "name" : "Ар’єв Володимир Ігорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d218_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 10,
+      "name" : "Артеменко Андрій Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp16.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 11,
+      "name" : "Артюшенко Ігор Андрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d75_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 12,
+      "name" : "Бабак Альона Валеріївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp8.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 13,
+      "name" : "Бабенко Валерій Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf35.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 14,
+      "name" : "Бабій Юрій Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf75.jpg"
+    },
+    {
+      "group" : "Луганська область",
+      "id" : 15,
+      "name" : "Бакулін Євген Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d106_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 16,
+      "name" : "Бакуменко Олександр Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp57.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 17,
+      "name" : "Балицький Євген Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d80_1.jpg"
+    },
+    {
+      "group" : "Закарпатська область",
+      "id" : 18,
+      "name" : "Балога Віктор Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d69_1.jpg"
+    },
+    {
+      "group" : "Закарпатська область",
+      "id" : 19,
+      "name" : "Балога Іван Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d73_1.jpg"
+    },
+    {
+      "group" : "Закарпатська область",
+      "id" : 20,
+      "name" : "Балога Павло Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d71_1.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 21,
+      "name" : "Бандуров Володимир Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d79_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 22,
+      "name" : "Барвіненко Віталій Дмитрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d141_1.jpg"
+    },
+    {
+      "group" : "Тернопільська область",
+      "id" : 23,
+      "name" : "Барна Олег Степанович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d167_1.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 24,
+      "name" : "Батенко Тарас Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d123_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 25,
+      "name" : "Бахтеєва Тетяна Дмитрівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob9.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 26,
+      "name" : "Безбах Яків Якович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d24_1.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 27,
+      "name" : "Береза Борислав Юхимович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d213_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 28,
+      "name" : "Береза Юрій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf10.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 29,
+      "name" : "Березенко Сергій Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d205_2.jpg"
+    },
+    {
+      "group" : "Кіровоградська область",
+      "id" : 30,
+      "name" : "Березкін Станіслав Семенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d100_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 31,
+      "name" : "Березюк Олег Романович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp28.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 32,
+      "name" : "Бєлькова Ольга Валентинівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp47.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 33,
+      "name" : "Білецький Андрій Євгенійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d217_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 34,
+      "name" : "Білий Олексій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob5.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 35,
+      "name" : "Біловол Олександр Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d180_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 36,
+      "name" : "Білозір Оксана Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp80.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 37,
+      "name" : "Білоцерковець Дмитро Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp76.jpg"
+    },
+    {
+      "group" : "Черкаська область",
+      "id" : 38,
+      "name" : "Бобов Геннадій Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d196_1.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 39,
+      "name" : "Богдан Руслан Дмитрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d151_2.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 40,
+      "name" : "Богомолець Ольга Вадимівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp3.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 41,
+      "name" : "Богуслаєв Вячеслав Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d77_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 42,
+      "name" : "Бойко Олена Петрівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf66.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 43,
+      "name" : "Бойко Юрій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob1.jpg"
+    },
+    {
+      "group" : "Хмельницька область",
+      "id" : 44,
+      "name" : "Бондар Віктор Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d191_1.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 45,
+      "name" : "Бондар Михайло Леонтійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d119_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 46,
+      "name" : "Брензович Василь Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp62.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 47,
+      "name" : "Бригинець Олександр Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp75.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 48,
+      "name" : "Бриченко Ігор Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf47.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 49,
+      "name" : "Бублик Юрій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d145_1.jpg"
+    },
+    {
+      "group" : "Чернівецька область",
+      "id" : 50,
+      "name" : "Бурбак Максим Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d204_1.jpg"
+    },
+    {
+      "group" : "Сумська область",
+      "id" : 51,
+      "name" : "Бухарєв Владислав Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d162_1.jpg"
+    },
+    {
+      "group" : "Миколаївська область",
+      "id" : 52,
+      "name" : "Вадатурський Андрій Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d130_1.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 53,
+      "name" : "Валентиров Сергій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d81_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 54,
+      "name" : "Ванат Петро Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf45.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 55,
+      "name" : "Васюник Ігор Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf17.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 56,
+      "name" : "Величкович Микола Романович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf40.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 57,
+      "name" : "Велікін Олег Маркович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp78.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 58,
+      "name" : "Веселова Наталія Василівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp9.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 59,
+      "name" : "Висоцький Сергій Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf44.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 60,
+      "name" : "Вілкул Олександр Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob2.jpg"
+    },
+    {
+      "group" : "Херсонська область",
+      "id" : 61,
+      "name" : "Вінник Іван Юлійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d184_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 62,
+      "name" : "Вітко Артем Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp7.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 63,
+      "name" : "Власенко Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but15.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 64,
+      "name" : "Вовк Віктор Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp23.jpg"
+    },
+    {
+      "group" : "Рівненська область",
+      "id" : 65,
+      "name" : "Вознюк Юрій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d153_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 66,
+      "name" : "Войцеховська Світлана Михайлівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf46.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 67,
+      "name" : "Войціцька Вікторія Михайлівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp22.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 68,
+      "name" : "Воропаєв Юрій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob13.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 69,
+      "name" : "Гаврилюк Михайло Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d95_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 70,
+      "name" : "Галасюк Віктор Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp10.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 71,
+      "name" : "Гальченко Андрій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d32_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 72,
+      "name" : "Герасимов Артур Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp43.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 73,
+      "name" : "Геращенко Антон Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf21.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 74,
+      "name" : "Геращенко Ірина Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp9.jpg"
+    },
+    {
+      "group" : "Хмельницька область",
+      "id" : 75,
+      "name" : "Герега Олександр Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d192_1.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 76,
+      "name" : "Гєллєр Євгеній Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d50_1.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 77,
+      "name" : "Гіршфельд Анатолій Мусійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d179_1.jpg"
+    },
+    {
+      "group" : "Тернопільська область",
+      "id" : 78,
+      "name" : "Головко Михайло Йосифович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d164_1.jpg"
+    },
+    {
+      "group" : "Черкаська область",
+      "id" : 79,
+      "name" : "Голуб Владислав Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d197_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 80,
+      "name" : "Голубов Дмитро Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d136_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 81,
+      "name" : "Гончаренко Олексій Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp40.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 82,
+      "name" : "Гопко Ганна Миколаївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 83,
+      "name" : "Горбунов Олександр Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf41.jpg"
+    },
+    {
+      "group" : "Закарпатська область",
+      "id" : 84,
+      "name" : "Горват Роберт Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d68_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 85,
+      "name" : "Грановський Олександр Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp58.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 86,
+      "name" : "Гринів Ігор Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp14.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 87,
+      "name" : "Гудзенко Віталій Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d92_1.jpg"
+    },
+    {
+      "group" : "Волинська область",
+      "id" : 88,
+      "name" : "Гузь Ігор Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d19_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 89,
+      "name" : "Гуляєв Василь Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d140_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 90,
+      "name" : "Гусак Володимир Георгійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob15.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 91,
+      "name" : "Давиденко Валерій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d208_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 92,
+      "name" : "Данілін Владислав Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf79.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 93,
+      "name" : "Данченко Олександр Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp10.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 94,
+      "name" : "Дейдей Євген Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf32.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 95,
+      "name" : "Демчак Руслан Євгенійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d18_1.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 96,
+      "name" : "Денисенко Анатолій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d173_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 97,
+      "name" : "Денисенко Андрій Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d26_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 98,
+      "name" : "Денисенко Вадим Ігорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp45.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 99,
+      "name" : "Денісова Людмила Леонтіївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf15.jpg"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 100,
+      "name" : "Дерев’янко Юрій Богданович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d87_1.jpg"
+    },
+    {
+      "group" : "Сумська область",
+      "id" : 101,
+      "name" : "Деркач Андрій Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d159_1.jpg"
+    },
+    {
+      "group" : "Рівненська область",
+      "id" : 102,
+      "name" : "Дехтярчук Олександр Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d154_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 103,
+      "name" : "Джемілєв Мустафа",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp5.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 104,
+      "name" : "Дзензерський Денис Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf24.jpg"
+    },
+    {
+      "group" : "Житомирська область",
+      "id" : 105,
+      "name" : "Дзюблик Павло Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d66_1.jpg"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 106,
+      "name" : "Дирів Анатолій Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d86_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 107,
+      "name" : "Діденко Ігор Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp18.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 108,
+      "name" : "Дідич Валентин Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d40_1.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 109,
+      "name" : "Дмитренко Олег Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d210_1.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 110,
+      "name" : "Добкін Дмитро Маркович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d178_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 111,
+      "name" : "Добкін Михайло Маркович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob3.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 112,
+      "name" : "Добродомов Дмитро Євгенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d115_1.jpg"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 113,
+      "name" : "Довбенко Михайло Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d84_1.jpg"
+    },
+    {
+      "group" : "Кіровоградська область",
+      "id" : 114,
+      "name" : "Довгий Олесь Станіславович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d102_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 115,
+      "name" : "Долженков Олександр Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob23.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 116,
+      "name" : "Домбровський Олександр Георгійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d11_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 117,
+      "name" : "Донець Тетяна Анатоліївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf20.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 118,
+      "name" : "Драюк Сергій Євсейович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf71.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 119,
+      "name" : "Дроздик Олександр Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf74.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 120,
+      "name" : "Дубіль Валерій Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but19.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 121,
+      "name" : "Дубінін Олександр Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d30_1.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 122,
+      "name" : "Дубневич Богдан Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d118_1.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 123,
+      "name" : "Дубневич Ярослав Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d120_1.jpg"
+    },
+    {
+      "group" : "Луганська область",
+      "id" : 124,
+      "name" : "Дунаєв Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d107_1.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 125,
+      "name" : "Євлахов Анатолій Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d207_1.jpg"
+    },
+    {
+      "group" : "Рівненська область",
+      "id" : 126,
+      "name" : "Євтушок Сергій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d156_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 127,
+      "name" : "Єдаков Ярослав Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf77.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 128,
+      "name" : "Єднак Остап Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp17.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 129,
+      "name" : "Єленський Віктор Євгенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf38.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 130,
+      "name" : "Ємець Леонід Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d221_1.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 131,
+      "name" : "Єфімов Максим Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d48_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 132,
+      "name" : "Єфремова Ірина Олексіївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf63.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 133,
+      "name" : "Жеваго Костянтин Валентинович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d150_1.jpg"
+    },
+    {
+      "group" : "Миколаївська область",
+      "id" : 134,
+      "name" : "Жолобецький Олександр Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d129_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 135,
+      "name" : "Журжій Андрій Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp16.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 136,
+      "name" : "Заболотний Григорій Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp27.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 137,
+      "name" : "Загорій Гліб Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp52.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 138,
+      "name" : "Заліщук Світлана Петрівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp18.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 139,
+      "name" : "Заставний Роман Йосипович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf31.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 140,
+      "name" : "Звягільський Юхим Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d45_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 141,
+      "name" : "Зубач Любомир Львович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp34.jpg"
+    },
+    {
+      "group" : "Черкаська область",
+      "id" : 142,
+      "name" : "Зубик Володимир Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d195_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 143,
+      "name" : "Іванчук Андрій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf16.jpg"
+    },
+    {
+      "group" : "Волинська область",
+      "id" : 144,
+      "name" : "Івахів Степан Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d21_1.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 145,
+      "name" : "Івченко Вадим Євгенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but6.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 146,
+      "name" : "Іллєнко Андрій Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d215_1.jpg"
+    },
+    {
+      "group" : "Миколаївська область",
+      "id" : 147,
+      "name" : "Ільюк Артем Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d128_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 148,
+      "name" : "Іонова Марія Миколаївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp23.jpg"
+    },
+    {
+      "group" : "Луганська область",
+      "id" : 149,
+      "name" : "Іоффе Юлій Якович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d112_1.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 150,
+      "name" : "Іщейкін Костянтин Євгенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d148_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 151,
+      "name" : "Іщенко Валерій Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp37.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 152,
+      "name" : "Кадикало Микола Олегович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf51.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 153,
+      "name" : "Каплін Сергій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d144_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 154,
+      "name" : "Карпунцов Валерій Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp77.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 155,
+      "name" : "Кацер-Бучковська Наталія Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf54.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 156,
+      "name" : "Кацуба Володимир Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d175_1.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 157,
+      "name" : "Кириленко Іван Григорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but14.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 158,
+      "name" : "Кириченко Олексій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp18.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 159,
+      "name" : "Кишкар Павло Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp7.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 160,
+      "name" : "Ківалов Сергій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d135_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 161,
+      "name" : "Кіраль Сергій Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp32.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 162,
+      "name" : "Кірш Олександр Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d169_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 163,
+      "name" : "Кісельов Андрій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob17.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 164,
+      "name" : "Кіссе Антон Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d142_1.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 165,
+      "name" : "Кіт Андрій Богданович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d126_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 166,
+      "name" : "Клімов Леонід Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d137_1.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 167,
+      "name" : "Клюєв Сергій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d46_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 168,
+      "name" : "Княжицький Микола Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf34.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 169,
+      "name" : "Князевич Руслан Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp12.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 170,
+      "name" : "Кобцев Михайло Валентинович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp50.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 171,
+      "name" : "Кодола Олександр Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d209_1.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 172,
+      "name" : "Кожем’якін Андрій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but13.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 173,
+      "name" : "Козак Тарас Романович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob14.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 174,
+      "name" : "Козаченко Леонід Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp41.jpg"
+    },
+    {
+      "group" : "Миколаївська область",
+      "id" : 175,
+      "name" : "Козир Борис Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d127_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 176,
+      "name" : "Колганова Олена Валеріївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf28.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 177,
+      "name" : "Колєсніков Дмитро Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob21.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 178,
+      "name" : "Кондратюк Олена Костянтинівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but18.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 179,
+      "name" : "Кононенко Ігор Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp29.jpg"
+    },
+    {
+      "group" : "Волинська область",
+      "id" : 180,
+      "name" : "Констанкевич Ірина Мирославівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d23_2.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 181,
+      "name" : "Константіновський Вячеслав Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d220_1.jpg"
+    },
+    {
+      "group" : "Миколаївська область",
+      "id" : 182,
+      "name" : "Корнацький Аркадій Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d132_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 183,
+      "name" : "Королевська Наталія Юріївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob8.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 184,
+      "name" : "Король Віктор Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp35.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 185,
+      "name" : "Корчик Віталій Андрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf67.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 186,
+      "name" : "Корчинська Оксана Анатоліївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp24.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 187,
+      "name" : "Костенко Павло Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp29.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 188,
+      "name" : "Котвіцький Ігор Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf48.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 189,
+      "name" : "Кошелєва Альона Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp13.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 190,
+      "name" : "Кремінь Тарас Дмитрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf59.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 191,
+      "name" : "Кривенко Вадим Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf60.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 192,
+      "name" : "Кривенко Віктор Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp5.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 193,
+      "name" : "Кривохатько Вадим Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d82_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 194,
+      "name" : "Кривошея Геннадій Григорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf69.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 195,
+      "name" : "Кришин Олег Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d34_1.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 196,
+      "name" : "Крулько Іван Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but8.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 197,
+      "name" : "Ксенжук Олександр Степанович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf36.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 198,
+      "name" : "Кудлаєнко Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp63.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 199,
+      "name" : "Кужель Олександра Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but16.jpg"
+    },
+    {
+      "group" : "Кіровоградська область",
+      "id" : 200,
+      "name" : "Кузьменко Анатолій Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d103_1.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 201,
+      "name" : "Кулініч Олег Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d147_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 202,
+      "name" : "Куліченко Іван Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d28_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 203,
+      "name" : "Куніцин Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp68.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 204,
+      "name" : "Купрієнко Олег Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp17.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 205,
+      "name" : "Купрій Віталій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d29_1.jpg"
+    },
+    {
+      "group" : "Луганська область",
+      "id" : 206,
+      "name" : "Курило Віталій Семенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d113_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 207,
+      "name" : "Курячий Максим Павлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d25_1.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 208,
+      "name" : "Кучер Микола Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d17_1.jpg"
+    },
+    {
+      "group" : "Хмельницька область",
+      "id" : 209,
+      "name" : "Лабазюк Сергій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d188_1.jpg"
+    },
+    {
+      "group" : "Сумська область",
+      "id" : 210,
+      "name" : "Лаврик Микола Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d161_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 211,
+      "name" : "Лаврик Олег Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp12.jpg"
+    },
+    {
+      "group" : "Закарпатська область",
+      "id" : 212,
+      "name" : "Ланьо Михайло Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d70_1.jpg"
+    },
+    {
+      "group" : "Волинська область",
+      "id" : 213,
+      "name" : "Лапін Ігор Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d22_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 214,
+      "name" : "Ларін Сергій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob6.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 215,
+      "name" : "Левус Андрій Мар’янович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf23.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 216,
+      "name" : "Левченко Юрій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d223_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 217,
+      "name" : "Ледовських Олена Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf27.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 218,
+      "name" : "Ленський Олексій Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp11.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 219,
+      "name" : "Лесюк Ярослав Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp69.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 220,
+      "name" : "Лещенко Сергій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp19.jpg"
+    },
+    {
+      "group" : "Житомирська область",
+      "id" : 221,
+      "name" : "Литвин Володимир Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d65_1.jpg"
+    },
+    {
+      "group" : "Миколаївська область",
+      "id" : 222,
+      "name" : "Лівік Олександр Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d131_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 223,
+      "name" : "Лінько Дмитро Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp20.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 224,
+      "name" : "Логвинський Георгій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf37.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 225,
+      "name" : "Лозовой Андрій Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp2.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 226,
+      "name" : "Лопушанський Андрій Ярославович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d125_1.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 227,
+      "name" : "Лубінець Дмитро Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d60_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 228,
+      "name" : "Лук’янчук Руслан Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf18.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 229,
+      "name" : "Лунченко Валерій Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf19.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 230,
+      "name" : "Луценко Ігор Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but3.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 231,
+      "name" : "Луценко Ірина Степанівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp70.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 232,
+      "name" : "Льовочкін Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob12.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 233,
+      "name" : "Льовочкіна Юлія Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob16.jpg"
+    },
+    {
+      "group" : "Тернопільська область",
+      "id" : 234,
+      "name" : "Люшняк Микола Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d166_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 235,
+      "name" : "Ляшко Олег Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 236,
+      "name" : "Макар’ян Давид Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp66.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 237,
+      "name" : "Македон Юрій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d16_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 238,
+      "name" : "Мамчур Юлій Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp6.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 239,
+      "name" : "Маркевич Ярослав Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp14.jpg"
+    },
+    {
+      "group" : "Волинська область",
+      "id" : 240,
+      "name" : "Мартиняк Сергій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d20_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 241,
+      "name" : "Мартовицький Артур Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d36_1.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 242,
+      "name" : "Марченко Олександр Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d90_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 243,
+      "name" : "Масоріна Олена Сергіївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf52.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 244,
+      "name" : "Матвієнко Анатолій Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp32.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 245,
+      "name" : "Матвієнков Сергій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d57_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 246,
+      "name" : "Матвійчук Едуард Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d133_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 247,
+      "name" : "Матейченко Костянтин Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf26.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 248,
+      "name" : "Матіос Марія Василівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp7.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 249,
+      "name" : "Матківський Богдан Миронович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d121_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 250,
+      "name" : "Матузко Олена Олександрівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp64.jpg"
+    },
+    {
+      "group" : "Хмельницька область",
+      "id" : 251,
+      "name" : "Мацола Роман Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d190_1.jpg"
+    },
+    {
+      "group" : "Сумська область",
+      "id" : 252,
+      "name" : "Медуниця Олег Вячеславович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d157_1.jpg"
+    },
+    {
+      "group" : "Хмельницька область",
+      "id" : 253,
+      "name" : "Мельник Сергій Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d187_1.jpg"
+    },
+    {
+      "group" : "Хмельницька область",
+      "id" : 254,
+      "name" : "Мельниченко Володимир Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d193_1.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 255,
+      "name" : "Мельничук Іван Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d14_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 256,
+      "name" : "Мельничук Сергій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp3.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 257,
+      "name" : "Мепарішвілі Хвича Нодарович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf78.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 258,
+      "name" : "Микитась Максим Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d206_2.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 259,
+      "name" : "Мирний Іван Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob18.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 260,
+      "name" : "Мисик Володимир Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d172_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 261,
+      "name" : "Мірошниченко Юрій Романович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob20.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 262,
+      "name" : "Мірошніченко Іван Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp15.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 263,
+      "name" : "Міщенко Сергій Григорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d98_1.jpg"
+    },
+    {
+      "group" : "Сумська область",
+      "id" : 264,
+      "name" : "Молоток Ігор Федорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d160_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 265,
+      "name" : "Мороко Юрій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob19.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 266,
+      "name" : "Мосійчук Ігор Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp9.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 267,
+      "name" : "Москаленко Ярослав Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d96_1.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 268,
+      "name" : "Мураєв Євгеній Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d181_1.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 269,
+      "name" : "Мусій Олег Степанович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d124_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 270,
+      "name" : "Мушак Олексій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp60.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 271,
+      "name" : "Найєм Мустафа-Масі",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp20.jpg"
+    },
+    {
+      "group" : "Херсонська область",
+      "id" : 272,
+      "name" : "Негой Федір Федорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d186_1.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 273,
+      "name" : "Недава Олег Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d53_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 274,
+      "name" : "Немировський Андрій Валентинович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp33.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 275,
+      "name" : "Немиря Григорій Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but7.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 276,
+      "name" : "Нестеренко Вадим Григорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d38_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 277,
+      "name" : "Нечаєв Олександр Ігоревич",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob26.jpg"
+    },
+    {
+      "group" : "Черкаська область",
+      "id" : 278,
+      "name" : "Ничипоренко Валентин Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d199_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 279,
+      "name" : "Німченко Василь Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob25.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 280,
+      "name" : "Новак Наталія Василівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp16.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 281,
+      "name" : "Новинський Вадим Владиславович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob11.jpg"
+    },
+    {
+      "group" : "Херсонська область",
+      "id" : 282,
+      "name" : "Одарченко Юрій Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d183_2.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 283,
+      "name" : "Омельянович Денис Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d49_1.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 284,
+      "name" : "Онищенко Олександр Романович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d93_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 285,
+      "name" : "Онуфрик Богдан Семенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp31.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 286,
+      "name" : "Опанасенко Олександр Валерійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp20.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 287,
+      "name" : "Остапчук Віктор Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d177_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 288,
+      "name" : "Острікова Тетяна Георгіївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp19.jpg"
+    },
+    {
+      "group" : "Рівненська область",
+      "id" : 289,
+      "name" : "Осуховський Олег Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d152_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 290,
+      "name" : "Павелко Андрій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp33.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 291,
+      "name" : "Павленко Юрій Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob24.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 292,
+      "name" : "Павлов Костянтин Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d31_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 293,
+      "name" : "Паламарчук Микола Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp36.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 294,
+      "name" : "Палатний Артур Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp24.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 295,
+      "name" : "Папієв Михайло Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob22.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 296,
+      "name" : "Парасюк Володимир Зіновійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d122_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 297,
+      "name" : "Парубій Андрій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf4.jpg"
+    },
+    {
+      "group" : "Тернопільська область",
+      "id" : 298,
+      "name" : "Пастух Тарас Тимофійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d163_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 299,
+      "name" : "Пацкан Валерій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp38.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 300,
+      "name" : "Пашинський Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf12.jpg"
+    },
+    {
+      "group" : "Черкаська область",
+      "id" : 301,
+      "name" : "Петренко Олег Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d194_1.jpg"
+    },
+    {
+      "group" : "Закарпатська область",
+      "id" : 302,
+      "name" : "Петьовка Василь Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d72_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 303,
+      "name" : "Пинзеник Віктор Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp17.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 304,
+      "name" : "Пинзеник Павло Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf49.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 305,
+      "name" : "Писаренко Валерій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d168_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 306,
+      "name" : "Підберезняк Вадим Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf76.jpg\n"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 307,
+      "name" : "Підлісецький Лев Теофілович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp26.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 308,
+      "name" : "Побер Ігор Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp67.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 309,
+      "name" : "Подоляк Ірина Ігорівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d116_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 310,
+      "name" : "Поляков Максим Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf39.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 311,
+      "name" : "Помазанов Андрій Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf68.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 312,
+      "name" : "Пономарьов Олександр Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d78_1.jpg"
+    },
+    {
+      "group" : "Кіровоградська область",
+      "id" : 313,
+      "name" : "Поплавський Михайло Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d101_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 314,
+      "name" : "Попов Ігор Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp6.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 315,
+      "name" : "Порошенко Олексій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d12_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 316,
+      "name" : "Пресман Олександр Семенович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d139_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 317,
+      "name" : "Присяжнюк Олександр Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf53.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 318,
+      "name" : "Продан Оксана Петрівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp15.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 319,
+      "name" : "Пташник Вікторія Юріївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp23.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 320,
+      "name" : "Рабінович Вадим Зіновійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob4.jpg"
+    },
+    {
+      "group" : "Житомирська область",
+      "id" : 321,
+      "name" : "Развадовський Віктор Йосипович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d67_1.jpg"
+    },
+    {
+      "group" : "Житомирська область",
+      "id" : 322,
+      "name" : "Ревега Олександр Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d63_1.jpg\n"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 323,
+      "name" : "Река Андрій Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d149_1.jpg"
+    },
+    {
+      "group" : "Чернівецька область",
+      "id" : 324,
+      "name" : "Рибак Іван Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d202_1.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 325,
+      "name" : "Рибалка Сергій Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp22.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 326,
+      "name" : "Рибчинський Євген Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d211_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 327,
+      "name" : "Ричкова Тетяна Борисівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d27_2.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 328,
+      "name" : "Різаненко Павло Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d97_1.jpg"
+    },
+    {
+      "group" : "Житомирська область",
+      "id" : 329,
+      "name" : "Розенблат Борислав Соломонович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d62_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 330,
+      "name" : "Романова Анна Анатоліївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp30.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 331,
+      "name" : "Романовський Олександр Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf72.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 332,
+      "name" : "Романюк Віктор Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d94_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 333,
+      "name" : "Романюк Роман Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp25.jpg"
+    },
+    {
+      "group" : "Черкаська область",
+      "id" : 334,
+      "name" : "Рудик Сергій Ярославович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d198_1.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 335,
+      "name" : "Рябчин Олексій Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but9.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 336,
+      "name" : "Сабашук Петро Павлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d74_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 337,
+      "name" : "Саврасов Максим Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp79.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 338,
+      "name" : "Савченко Надія Вікторівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 339,
+      "name" : "Савченко Олексій Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp48.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 340,
+      "name" : "Савчук Юрій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf22.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 341,
+      "name" : "Сажко Сергій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d59_1.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 342,
+      "name" : "Святаш Дмитро Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d170_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 343,
+      "name" : "Севрюков Владислав Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp73.jpg\n"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 344,
+      "name" : "Семенуха Роман Сергійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp27.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 345,
+      "name" : "Семенченко Семен Ігорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp2.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 346,
+      "name" : "Сидорович Руслан Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp21.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 347,
+      "name" : "Сидорчук Вадим Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf30.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 348,
+      "name" : "Силантьєв Денис Олегович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp12.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 349,
+      "name" : "Сироїд Оксана Іванівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp4.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 350,
+      "name" : "Сисоєнко Ірина Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp25.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 351,
+      "name" : "Скорик Микола Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob10.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 352,
+      "name" : "Скрипник Олексій Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp3.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 353,
+      "name" : "Скуратовський Сергій Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp19.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 354,
+      "name" : "Соболєв Єгор Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp13.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 355,
+      "name" : "Соболєв Сергій Владиславович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but4.jpg"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 356,
+      "name" : "Соловей Юрій Ігорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d89_1.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 357,
+      "name" : "Солод Юрій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d47_1.jpg"
+    },
+    {
+      "group" : "Київська область",
+      "id" : 358,
+      "name" : "Сольвар Руслан Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d91_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 359,
+      "name" : "Соляр Володимир Миронович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf55.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 360,
+      "name" : "Сотник Олена Сергіївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp11.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 361,
+      "name" : "Сочка Олександр Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf50.jpg"
+    },
+    {
+      "group" : "Херсонська область",
+      "id" : 362,
+      "name" : "Співаковський Олександр Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d182_1.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 363,
+      "name" : "Спориш Іван Дмитрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d15_1.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 364,
+      "name" : "Сташук Віталій Филимонович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d212_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 365,
+      "name" : "Стеценко Дмитро Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf70.jpg"
+    },
+    {
+      "group" : "Сумська область",
+      "id" : 366,
+      "name" : "Сугоняко Олександр Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d158_1.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 367,
+      "name" : "Супруненко Олександр Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d216_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 368,
+      "name" : "Суслова Ірина Миколаївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp6.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 369,
+      "name" : "Сюмар Вікторія Петрівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf7.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 370,
+      "name" : "Тарасюк Борис Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but12.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 371,
+      "name" : "Тарута Сергій Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d58_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 372,
+      "name" : "Тетерук Андрій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf5.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 373,
+      "name" : "Тимошенко Юлія Володимирівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but2.jpg"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 373,
+      "name" : "Тимошенко Юрій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d88_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 374,
+      "name" : "Тимчук Дмитро Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf13.jpg"
+    },
+    {
+      "group" : "Чернівецька область",
+      "id" : 375,
+      "name" : "Тіміш Григорій Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d203_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 376,
+      "name" : "Ткачук Геннадій Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp42.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 377,
+      "name" : "Третьяков Олександр Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d219_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 378,
+      "name" : "Тригубенко Сергій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp46.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 379,
+      "name" : "Унгурян Павло Якимович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf43.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 380,
+      "name" : "Урбанський Олександр Ігорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d143_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 381,
+      "name" : "Усов Костянтин Глібович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d33_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 382,
+      "name" : "Фаєрмарк Сергій Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf29.jpg"
+    },
+    {
+      "group" : "Чернівецька область",
+      "id" : 383,
+      "name" : "Федорук Микола Трохимович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d201_1.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 384,
+      "name" : "Фельдман Олександр Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d174_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 385,
+      "name" : "Фріз Ірина Василівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp30.jpg"
+    },
+    {
+      "group" : "Запорізька область",
+      "id" : 386,
+      "name" : "Фролов Микола Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d76_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 387,
+      "name" : "Фурсін Іван Геннадійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d138_1.jpg"
+    },
+    {
+      "group" : "Херсонська область",
+      "id" : 388,
+      "name" : "Хлань Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d185_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 389,
+      "name" : "Хміль Михайло Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf42.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 390,
+      "name" : "Хомутиннік Віталій Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d171_1.jpg"
+    },
+    {
+      "group" : "Одеська область",
+      "id" : 391,
+      "name" : "Чекіта Геннадій Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d134_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 392,
+      "name" : "Чепинога Віталій Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp56.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 393,
+      "name" : "Червакова Ольга Валеріївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp49.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 394,
+      "name" : "Черненко Олександр Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp21.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 395,
+      "name" : "Чижмарь Юрій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp25.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 396,
+      "name" : "Чорновол Тетяна Миколаївна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf2.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 397,
+      "name" : "Чубаров Рефат Абдурахманович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp71.jpg"
+    },
+    {
+      "group" : "м. Київ",
+      "id" : 398,
+      "name" : "Чумак Віктор Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d214_1.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 399,
+      "name" : "Шаповалов Юрій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d146_1.jpg"
+    },
+    {
+      "group" : "Луганська область",
+      "id" : 400,
+      "name" : "Шахов Сергій Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d114_2.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 401,
+      "name" : "Шверк Григорій Аронович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp72.jpg\n"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 402,
+      "name" : "Шевченко Віктор Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d85_2.jpg"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 403,
+      "name" : "Шевченко Олександр Леонідович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d83_1.jpg"
+    },
+    {
+      "group" : "Харківська область",
+      "id" : 404,
+      "name" : "Шенцев Дмитро Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d176_1.jpg"
+    },
+    {
+      "group" : "Хмельницька область",
+      "id" : 405,
+      "name" : "Шинькович Андрій Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d189_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 406,
+      "name" : "Шипко Андрій Федорович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d35_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 407,
+      "name" : "Шкварилюк Володимир Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf25.jpg"
+    },
+    {
+      "group" : "Донецька область",
+      "id" : 408,
+      "name" : "Шкіря Ігор Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d52_1.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 409,
+      "name" : "Шкрум Альона Іванівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but5.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 410,
+      "name" : "Шпенов Дмитро Юрійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d37_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 411,
+      "name" : "Шурма Ігор Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob27.jpg"
+    },
+    {
+      "group" : "Політична партія \"Опозиційний блок\"",
+      "id" : 412,
+      "name" : "Шуфрич Нестор Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/ob7.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 413,
+      "name" : "Шухевич Юрій-Богдан Романович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp5.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 414,
+      "name" : "Южаніна Ніна Петрівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp28.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 415,
+      "name" : "Юзькова Тетяна Леонідівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp26.jpg\n"
+    },
+    {
+      "group" : "Тернопільська область",
+      "id" : 416,
+      "name" : "Юрик Тарас Зіновійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d165_1.jpg"
+    },
+    {
+      "group" : "Львівська область",
+      "id" : 417,
+      "name" : "Юринець Оксана Василівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d117_1.jpg"
+    },
+    {
+      "group" : "Вінницька область",
+      "id" : 418,
+      "name" : "Юрчишин Петро Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d13_1.jpg"
+    },
+    {
+      "group" : "Рівненська область",
+      "id" : 419,
+      "name" : "Яніцький Василь Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d155_1.jpg"
+    },
+    {
+      "group" : "Кіровоградська область",
+      "id" : 420,
+      "name" : "Яриніч Костянтин Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d99_1.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 421,
+      "name" : "Ярош Дмитро Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d39_1.jpg"
+    },
+    {
+      "group" : "Черкаська область",
+      "id" : 422,
+      "name" : "Яценко Антон Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d200_1.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 423,
+      "name" : "Атрошенко Владислав Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d206_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 424,
+      "name" : "Барна Степан Степанович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp65.jpg"
+    },
+    {
+      "group" : "Луганська область",
+      "id" : 425,
+      "name" : "Гарбуз Юрій Григорійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d114_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 426,
+      "name" : "Гвоздьов Михайло Олексійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp53.jpg"
+    },
+    {
+      "group" : "Херсонська область",
+      "id" : 427,
+      "name" : "Гордєєв Андрій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d183_1.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 428,
+      "name" : "Гриневич Лілія Михайлівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf9.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 429,
+      "name" : "Гройсман Володимир Борисович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp4.jpg"
+    },
+    {
+      "group" : "Волинська область",
+      "id" : 430,
+      "name" : "Єремеєв Ігор Миронович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d23_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 431,
+      "name" : "Климпуш-Цинцадзе Іванна Орестівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp61.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 432,
+      "name" : "Кубів Степан Іванович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp59.jpg"
+    },
+    {
+      "group" : "Чернігівська область",
+      "id" : 433,
+      "name" : "Куліч Валерій Петрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d205_1.jpg"
+    },
+    {
+      "group" : "Полтавська область",
+      "id" : 434,
+      "name" : "Кутовий Тарас Вікторович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d151_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 435,
+      "name" : "Луценко Юрій Віталійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp2.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 436,
+      "name" : "Мартиненко Микола Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf14.jpg"
+    },
+    {
+      "group" : "Політична партія \"Об'єднання \"САМОПОМІЧ\"",
+      "id" : 437,
+      "name" : "Мірошник Андрій Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/sp31.jpg"
+    },
+    {
+      "group" : "Івано-Франківська область",
+      "id" : 438,
+      "name" : "Насалик Ігор Степанович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d85_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 439,
+      "name" : "Насіров Роман Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp51.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 440,
+      "name" : "Огнєвіч Злата Леонідівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp4.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 441,
+      "name" : "Семерак Остап Михайлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf33.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 442,
+      "name" : "Сторожук Дмитро Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf56.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 443,
+      "name" : "Томенко Микола Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp8.jpg"
+    },
+    {
+      "group" : "Дніпропетровська область",
+      "id" : 444,
+      "name" : "Філатов Борис Альбертович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/d27_1.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 445,
+      "name" : "Фірсов Єгор Павлович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp54.jpg"
+    },
+    {
+      "group" : "політична партія Всеукраїнське об'єднання \"Батьківщина\"",
+      "id" : 446,
+      "name" : "Шлемко Дмитро Васильович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/but11.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 447,
+      "name" : "Бендюженко Федір Володимирович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf80.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 448,
+      "name" : "Буглак Юрій Олександрович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp81.jpg"
+    },
+    {
+      "group" : "Радикальна Партія Олега Ляшка",
+      "id" : 449,
+      "name" : "Заружко Валерія Леонідівна",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/rp28.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 451,
+      "name" : "Ковальчук Віталій Анатолійович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp10.jpg"
+    },
+    {
+      "group" : "ПАРТІЯ \"БЛОК ПЕТРА ПОРОШЕНКА\"",
+      "id" : 452,
+      "name" : "Павленко Ростислав Миколайович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/bp22.jpg"
+    },
+    {
+      "group" : "Політична партія \"НАРОДНИЙ ФРОНТ\"",
+      "id" : 453,
+      "name" : "Турчинов Олександр Валентинович",
+      "image" : "http:\/\/static.rada.gov.ua\/dep_img8\/nf3.jpg"
+    }
+  ]
+}

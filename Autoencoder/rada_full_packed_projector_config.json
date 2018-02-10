@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Rada Open Data",
+      "tensorShape": [
+        453, 
+        64
+      ],      
+      "tensorPath": "http://octadero.com/API/rada_full_packed.tsv",
+      "metadataPath": "http://octadero.com/API/rada_full_packed_labels.tsv"
+    }
+  ]
+}

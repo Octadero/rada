@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/local/opt/python3/bin/python3.6",
+    "python.linting.pylintArgs": ["--max-line-length=240"],
+}
