@@ -1,21 +1,18 @@
-""" Rada Auto Encoder Example.
+""" Auto Encoder Example.
 
-Simple auto-encoder to compress high dimensional vector to a lower latent space.
+Build a 2 layers auto-encoder with TensorFlow to compress images to a
+lower latent space and then reconstruct them.
 
 References:
     Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based
     learning applied to document recognition." Proceedings of the IEEE,
     86(11):2278-2324, November 1998.
 
-Author: 
-    Volodymyr Pavliukevych / Octadero
-    website: https://octadero.com/
-
-OpenData:
-    Web site: http://data.rada.gov.ua/open
-    Faces: http://w1.c1.rada.gov.ua/pls/radan_gs09/zal_frack_ank?kod=0 ... 500
-    Vote list: http://w1.c1.rada.gov.ua/pls/radan_gs09/ns_golos?g_id=345
-    Politisians: http://w1.c1.rada.gov.ua/pls/site2/p_deputat_list
+Author: Volodymyr Pavliukevych / Octadero
+Project: https://octadero.com/
+Info: http://w1.c1.rada.gov.ua/pls/radan_gs09/zal_frack_ank?kod=0 ... 500
+Golog: http://w1.c1.rada.gov.ua/pls/radan_gs09/ns_golos?g_id=345
+Polits: http://w1.c1.rada.gov.ua/pls/site2/p_deputat_list
 """
 
 from __future__ import division, print_function, absolute_import
@@ -23,24 +20,28 @@ from __future__ import division, print_function, absolute_import
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-
-# Read CSV Data
-file = np.load('rada_full.npz')
-rada_input = file['arr_0']
-print("Shape of input vector: ", np.shape(rada_input))
+plt.switch_backend('agg')
 
 # Training Parameters
 learning_rate = 0.01
-num_steps = 1000000
+num_steps = 150000
+
 display_step = 1000
 track_step = 100
 
 # Network Parameters
-num_input = 23998 # Input shape
-num_hidden_1 = 110 # 1st layer num features
-num_hidden_2 = 80 # 2nd layer num features
-num_hidden_3 = 60 # 3rd layer num features 
-log_path = '/tmp/autoencoder/23998_453x'+str(num_hidden_1)+'x'+str(num_hidden_2)+'x'+str(num_hidden_3)+'/'
+num_input = 11999 # Input shape
+num_hidden_1 = 256 # 1st layer num features
+num_hidden_2 = 128 # 2nd layer num features
+num_hidden_3 = 64 # 3rd layer num features 
+log_path = '/tmp/autoencoder/' + str(num_input) + '_453x' + str(num_hidden_1) + 'x' + str(num_hidden_2) + 'x' + str(num_hidden_3) + '/'
+
+# Read CSV Data
+file = np.load('rada_full_'+ str(num_input) +'.npz')
+rada_input = file['arr_0']
+print("Shape of input: ", np.shape(rada_input))
+
+OUTPUT_DIR = 'result_' + str(num_input)
 # tf Graph input (only pictures)
 X = tf.placeholder("float", [None, num_input])
 
@@ -50,6 +51,7 @@ def encoder(x):
         with tf.variable_scope('layer_1', reuse=False):
             w1 = tf.Variable(tf.random_normal([num_input, num_hidden_1]), name="w1")
             b1 = tf.Variable(tf.random_normal([num_hidden_1]), name="b1")
+            # Encoder Hidden layer with sigmoid activation #1
             layer_1 = tf.nn.sigmoid(tf.add(tf.matmul(x, w1), b1))
             tf.summary.histogram("histogram-w1", w1)
             tf.summary.histogram("histogram-b1", b1)
@@ -57,6 +59,7 @@ def encoder(x):
         with tf.variable_scope('layer_2', reuse=False):
             w2 = tf.Variable(tf.random_normal([num_hidden_1, num_hidden_2]), name="w2")
             b2 = tf.Variable(tf.random_normal([num_hidden_2]), name="b2")
+            # Encoder Hidden layer with sigmoid activation #2
             layer_2 = tf.nn.sigmoid(tf.add(tf.matmul(layer_1, w2), b2))
             tf.summary.histogram("histogram-w2", w2)
             tf.summary.histogram("histogram-b2", b2)
@@ -64,6 +67,7 @@ def encoder(x):
         with tf.variable_scope('layer_3', reuse=False):
             w2 = tf.Variable(tf.random_normal([num_hidden_2, num_hidden_3]), name="w2")
             b2 = tf.Variable(tf.random_normal([num_hidden_3]), name="b2")
+            # Encoder Hidden layer with sigmoid activation #2
             layer_3 = tf.nn.sigmoid(tf.add(tf.matmul(layer_2, w2), b2))
             tf.summary.histogram("histogram-w2", w2)
             tf.summary.histogram("histogram-b2", b2)    
@@ -75,6 +79,7 @@ def decoder(x):
         with tf.variable_scope('layer_1', reuse=False):
             w1 = tf.Variable(tf.random_normal([num_hidden_3, num_hidden_2]), name="w1")
             b1 = tf.Variable(tf.random_normal([num_hidden_2]), name="b1")
+            # Decoder Hidden layer with sigmoid activation #1
             layer_1 = tf.nn.sigmoid(tf.add(tf.matmul(x, w1), b1))
             tf.summary.histogram("histogram-w1", w1)
             tf.summary.histogram("histogram-b1", b1)
@@ -82,6 +87,7 @@ def decoder(x):
         with tf.variable_scope('layer_2', reuse=False):
             w1 = tf.Variable(tf.random_normal([num_hidden_2, num_hidden_1]), name="w1")
             b1 = tf.Variable(tf.random_normal([num_hidden_1]), name="b1")
+            # Decoder Hidden layer with sigmoid activation #1
             layer_2 = tf.nn.sigmoid(tf.add(tf.matmul(layer_1, w1), b1))
             tf.summary.histogram("histogram-w1", w1)
             tf.summary.histogram("histogram-b1", b1)
@@ -89,6 +95,7 @@ def decoder(x):
         with tf.variable_scope('layer_3', reuse=False):
             w2 = tf.Variable(tf.random_normal([num_hidden_1, num_input]), name="w2")
             b2 = tf.Variable(tf.random_normal([num_input]), name="2")
+            # Decoder Hidden layer with sigmoid activation #2
             layer_3 = tf.nn.sigmoid(tf.add(tf.matmul(layer_2, w2), b2))
             tf.summary.histogram("histogram-w2", w2) 
             tf.summary.histogram("histogram-b2", b2)           
@@ -135,7 +142,7 @@ with tf.Session(config=config) as sess:
         print("Restore from: ", log_path, "model: ", model_checkpoint_path)
     except Exception as error: 
         print(error)
-        print("There is no saved model to load.\n Starting new session.")
+        print("There is no saved model to load at " + log_path + ".\n Starting new session.")
     else:
         print("loaded model: {}".format(model_checkpoint_path))
         saver = tf.train.Saver(tf.global_variables())
@@ -155,7 +162,7 @@ with tf.Session(config=config) as sess:
 
     # Extract packed vector
     packed_layer_value = sess.run(encoder_op, feed_dict={X: rada_input})
-    np.savetxt("rada_full_packed.tsv", packed_layer_value, delimiter="\t")
+    np.savetxt(OUTPUT_DIR + '/rada_full_packed.tsv', packed_layer_value, delimiter="\t")
 
     # Ploting result
     # Encode and decode images from test set and visualize their reconstruction.
@@ -181,9 +188,10 @@ with tf.Session(config=config) as sess:
 print("Original Images")
 plt.figure(figsize=(n, n))
 plt.imshow(canvas_orig, origin="upper", cmap="gray")
-plt.savefig('canvas_orig.png')
+plt.savefig(OUTPUT_DIR + '/canvas_orig.png')
 
 print("Reconstructed Images")
 plt.figure(figsize=(n, n))
 plt.imshow(canvas_recon, origin="upper", cmap="gray")
-plt.savefig('canvas_recon.png')
+plt.savefig(OUTPUT_DIR + '/canvas_recon.png')
+
